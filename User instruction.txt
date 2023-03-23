@@ -1,0 +1,9 @@
+This program will sort out judges and projects by field and pair judges for project groups for judging. 
+
+The user will need to enter a name for seperate files consisting of the judges names with capable fields, 
+another file with projects by number with its field, and an output file in the specificed fields. 
+
+.txt files are best suited for this program.
+
+Clicking submit will start the program and automatically use the specified output file to list which judges 
+will be responsible for which group of projects. 

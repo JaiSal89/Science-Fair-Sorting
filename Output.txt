@@ -1,0 +1,14 @@
+Behavioral/Social Science: Bill Jones, Chris Suarez, Jill Clermson 
+Projects: 402 400 401 
+Chemistry_1.0: Bill Jones, Corey Garcia, Gus Grey 
+Projects: 403 404 405 406 407 408 
+Chemistry_2.0: John Jones, John Smith, Jose Jalepeno 
+Projects: 409 410 411 412 null null 
+Earth/Space Science: Bill Jones, Carla Phillips, Corey Garcia 
+Projects: 413 
+Environmental Science: Chris Suarez, Jill Clermson, Jose Jalepeno 
+Projects: 414 415 416 
+Life Science: Cathy Lively, Jill Clermson, Jill Martin 
+Projects: 417 418 419 
+Mathematics/Phyics: Bill Jones, Corey Garcia, John Smith 
+Projects: 420 421 
